@@ -10,7 +10,7 @@
   function menuConfig(Menus) {
     // Set top bar menu items
     Menus.addMenuItem('topbar', {
-      title: 'Looking for',
+      title: 'L',
       state: 'wants',
       type: 'dropdown',
       roles: ['user']

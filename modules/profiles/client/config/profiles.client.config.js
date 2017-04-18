@@ -10,7 +10,7 @@
   function menuConfig(Menus) {
     // Set top bar menu items
     Menus.addMenuItem('topbar', {
-      title: 'Profile',
+      title: 'P',
       state: 'profiles',
       type: 'dropdown',
       roles: ['user']
